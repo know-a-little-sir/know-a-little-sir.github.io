@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小赵同学</title>
+  <title>小赵略懂</title>
   <icon>https://www.gravatar.com/avatar/57229e34adf709650648e4c2f4dca309</icon>
-  <subtitle>生活明朗，万物可爱</subtitle>
+  <subtitle>大家好，我是小赵同学</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
