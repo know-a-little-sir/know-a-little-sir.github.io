@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小赵同学</title>
+  <icon>https://www.gravatar.com/avatar/57229e34adf709650648e4c2f4dca309</icon>
+  <subtitle>生活明朗，万物可爱</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-06-03T12:04:20.065Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>小赵略懂</name>
+    <email>2569435997@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>纪念王小波</title>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
+    <published>2023-06-03T11:45:00.000Z</published>
+    <updated>2023-06-03T12:04:20.065Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.不愿清醒，宁愿一直沉迷放纵。不知归路，宁愿一世无悔追逐。<br>2.人的一切痛苦，本质上都是对自己的无能的愤怒。<br>3.我思故我在，既然我存在，就不能装作不存在。无论如何，我要为自己负起责任。<br>4.一个人只有今生今世是不够的，他还应当有诗意的世界。<br>5.我的勇气和你的勇气加起来，对付这个世界总够了吧？去向世界发出我们的声音，我一个人是不敢的，有了你我就敢。<br>6.什么样的灵魂就要什么样的养料，越悲怆的时候我越想嬉皮。<br>7.你要是愿意，我就永远爱你。你要是不愿意，我就永远相思。<br>8.从话语中，你很少能学到人性，从沉默中却能。假如还想学得更多，那就要继续一声不吭。<br>9.不管我本人多么平庸，我总觉得对你的爱很美。<br>10.深思熟虑的结果往往就是说不清楚。<br>11.人在年轻时，最头疼的一件事就是决定自己这一生要做什么。<br>12.活下去的诀窍是：保持愚蠢，又不能知道自己有多蠢。<br>13.一个人倘若需要从思想中得到快乐，那么它的第一个欲望就是学习。<br>14.一想起你，我这张丑脸上就泛起微笑。<br>15.我时常回到童年，用一片童心来思考问题，很多烦恼的问题就变得易解。<br>16.我对自己的要求很低：我活在世上，无非想要明白些道理，遇见些有趣的事。倘能如我愿，我的一生就算成功。<br>17.不相信世界就是这样，在明知道有的时候必须低头，有的人必将失去，有的东西命中注定不能长久的时候，依然要说，在第一千个选择之外，还有第一千零一个可能，有一扇窗等着我打开，然后有光透进来。<br>18.人在年轻的时候，觉得到处都是人，别人的事就是你的事，到了中年以后，才觉得世界上除了家人已经一无所有了。<br>19.人走茶凉伤感吗？不伤感！真正伤感的是：人走了，却把我的茶杯也骗走了。<br>20.真实就是无法醒来。不管怎么哭喊怎么大闹，就是无法从那样的梦中清醒过来，这就是现实。<br>21.绝望是无限的美好。<br>22.只有那些知道自己智慧一文不值的人，才是最有智慧的人。<br>23.所有无聊的事情都会衍生出很多细节让你觉得它复杂而有趣，投入其中而浑然不知其无聊的本质。<br>24.你知道什么是天才的诀窍吗？那就是永远只做一件事。<br>25.我相信这不是我一个人的经历：傍晚时分，你坐在屋檐下·，看着天慢慢地黑下去，心里寂寞而凄凉，感到自己的生命被剥夺了。当时我是个年轻人，但我害怕这样生活下去，衰老下去。在我看来，这是比死亡更可怕的事。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1.不愿清醒，宁愿一直沉迷放纵。不知归路，宁愿一世无悔追逐。&lt;br&gt;2.人的一切痛苦，本质上都是对自己的无能的愤怒。&lt;br&gt;3.我思故我在，既然我存在，就不能装作不存在。无论如何，我要为自己负起责任。&lt;br&gt;4.一个人只有今生今世是不够的，他还应当有诗意的世界。&lt;br&gt;5.</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写写博客</title>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
+    <published>2023-06-03T08:01:12.000Z</published>
+    <updated>2023-06-03T12:08:28.113Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
+    <published>2023-06-01T13:33:41.476Z</published>
+    <updated>2023-06-01T13:33:41.476Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>        <h2 id="Quick-Start"   >          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>              <h3 id="Create-a-new-post"   >          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Run-server"   >          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Generate-static-files"   >          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Deploy-to-remote-sites"   >          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-ex</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
