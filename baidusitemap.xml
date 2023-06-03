@@ -4,12 +4,4 @@
     <loc>http://example.com/posts/undefined.html</loc>
     <lastmod>2023-06-03</lastmod>
   </url>
-  <url>
-    <loc>http://example.com/posts/undefined.html</loc>
-    <lastmod>2023-06-03</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/undefined.html</loc>
-    <lastmod>2023-06-01</lastmod>
-  </url>
 </urlset> 
