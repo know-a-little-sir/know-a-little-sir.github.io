@@ -64,6 +64,17 @@
     
     
     <entry>
+      <title>read</title>
+      <link href="/read/index.html"/>
+      <url>/read/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -78,17 +89,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>read</title>
-      <link href="/read/index.html"/>
-      <url>/read/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
